@@ -1,4 +1,4 @@
-# Dream11predict
+# Dream11 Teams Generation
 Generate all possible combination of teams without cap and vc for dream11 fantasy game
 
 The Python Script reads the fixed player names from the first file and generates the remaining player names based on the length of the fixed player list.
