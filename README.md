@@ -5,7 +5,7 @@ The Python Script reads the fixed player names from the first file and generates
 
 The script reads the fixed player names from the first file and calculates the number of remaining players needed to generate a full team of 11 players. It then reads the remaining player names from the second file and generates all possible combinations of num_remaining_players players from the list of remaining players. Finally, it creates all possible team combinations by adding the fixed player names to the randomly selected players and prints them out.
 
-To run this script, you can use the same command as before:
+To run this script, you can use the below command:
 
 ```
 python generate_team.py fixed_players.txt remaining_players.txt
